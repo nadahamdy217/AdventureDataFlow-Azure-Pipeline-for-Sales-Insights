@@ -91,15 +91,15 @@ To meet these requirements, the solution is broken down into the following compo
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](![image](https://github.com/user-attachments/assets/65449c9a-9b14-411b-b046-8480d35d18f2))
+![Power BI Dashboard] ![image](https://github.com/user-attachments/assets/65449c9a-9b14-411b-b046-8480d35d18f2)
 
 ### Azure Data Factory Pipelines
 
-![Azure Data Factory Pipelines](![image](https://github.com/user-attachments/assets/aab9e937-babf-4608-a54d-12d2913ed3da))
+![Azure Data Factory Pipelines] ![image](https://github.com/user-attachments/assets/aab9e937-babf-4608-a54d-12d2913ed3da)
 
 ### Azure Synapse Analytics
 
-![Azure Synapse Analytics](![image](https://github.com/user-attachments/assets/b800836f-a8e3-466a-8f95-c4cf481abb8b))
+![Azure Synapse Analytics] ![image](https://github.com/user-attachments/assets/b800836f-a8e3-466a-8f95-c4cf481abb8b)
 
 ## Conclusion 🎯
 
