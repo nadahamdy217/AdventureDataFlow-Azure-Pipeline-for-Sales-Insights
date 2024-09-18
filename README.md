@@ -1,0 +1,2 @@
+# AdventureDataFlow-Azure-Pipeline-for-Sales-Insights
+ Azure-based data pipeline solution for extracting, transforming, and visualizing customer and sales data. It includes components for data ingestion, transformation, and reporting using Azure Data Factory, Databricks, Synapse Analytics, and Power BI. The project aims to provide actionable insights into customer demographics and sales performance.
