@@ -89,9 +89,9 @@ To meet these requirements, the solution is broken down into the following compo
 
 ## Screenshots 📸
 
-### Power BI Dashboard
+### Azure Resource
 
-![Power BI Dashboard](https://github.com/user-attachments/assets/65449c9a-9b14-411b-b046-8480d35d18f2)
+![Azure Resource](https://github.com/user-attachments/assets/5482fd3a-e0fa-4f0b-92ff-01db6734c73f)
 
 ### Azure Data Factory Pipelines
 
@@ -100,6 +100,11 @@ To meet these requirements, the solution is broken down into the following compo
 ### Azure Synapse Analytics
 
 ![Azure Synapse Analytics](https://github.com/user-attachments/assets/b800836f-a8e3-466a-8f95-c4cf481abb8b)
+
+### Power BI Dashboard
+
+![Power BI Dashboard](https://github.com/user-attachments/assets/65449c9a-9b14-411b-b046-8480d35d18f2)
+
 
 ## Conclusion 🎯
 
