@@ -1,0 +1,16 @@
+Pipeline expression builder
+Add dynamic content below using any combination of expressions, functions and system variables.
+
+@{@{concat('SELECT * FROM', item().SchemaName,'.',item().TableName)}
+
+directorey name
+@{concat(dataset().schemaname, '/', dataset().tablename)}
+
+file name
+@{concat(dataset().tablename, '.parquet')}
+
+
+@activity('Get Table Names').output.childItems
+
+
+sales_order_id
